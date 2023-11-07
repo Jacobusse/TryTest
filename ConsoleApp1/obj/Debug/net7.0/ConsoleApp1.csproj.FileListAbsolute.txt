@@ -1,0 +1,15 @@
+C:\Projects\CSCI475_01\Demo\TryTest\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.exe
+C:\Projects\CSCI475_01\Demo\TryTest\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.deps.json
+C:\Projects\CSCI475_01\Demo\TryTest\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.runtimeconfig.json
+C:\Projects\CSCI475_01\Demo\TryTest\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.dll
+C:\Projects\CSCI475_01\Demo\TryTest\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.pdb
+C:\Projects\CSCI475_01\Demo\TryTest\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Projects\CSCI475_01\Demo\TryTest\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CSCI475_01\Demo\TryTest\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Projects\CSCI475_01\Demo\TryTest\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
+C:\Projects\CSCI475_01\Demo\TryTest\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Projects\CSCI475_01\Demo\TryTest\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.dll
+C:\Projects\CSCI475_01\Demo\TryTest\ConsoleApp1\obj\Debug\net7.0\refint\ConsoleApp1.dll
+C:\Projects\CSCI475_01\Demo\TryTest\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.pdb
+C:\Projects\CSCI475_01\Demo\TryTest\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
+C:\Projects\CSCI475_01\Demo\TryTest\ConsoleApp1\obj\Debug\net7.0\ref\ConsoleApp1.dll
